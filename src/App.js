@@ -55,7 +55,7 @@ function App() {
     />
     <Boton
       onClick={consultarAPI}
-    > Obtener frase</Boton>
+    > Get Quote</Boton>
     </Contenedor>
   );
 }
